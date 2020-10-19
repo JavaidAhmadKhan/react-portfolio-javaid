@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Javaid Khan",
+    "occupation": "Software Engineer ",
+    "description": "Full Stack Software Engineer",
+    "image": "IG_Javaid.png",
+    "bio": "My name is Javaid Khan, I'm a Full Stack Software Engineer.Looking for an opportunity as a full stack reactjs developer ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "relaxjavaid@gmail.com",
+    "phone": "+91 9797550069",
+    "address": {
+      "street": "D-59 Saket, Delhi, India",
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "190001"
+    },
+    "website": "https://zen-cray-8cbf67.netlify.app/",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/javaid.khan19/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/javaid-ahmad-khan-183a41136/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/clevercoderdev/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/JavaidAhmadKhan",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "degree": "bachelors in Information Technology",
+        "graduated": "January 2020",
+        "description": " "
+      }
+    ],
+    "work": [
+      {
+        "company": "Looking for an opportunity as a full stack reactjs developer",
+        "title": "Software Engineer",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "COVID-19",
+        "category": "COVID-19 build with Reactjs and firebase, hosted on firebase",
+        "image": "project8.png",
+        "url": "https://covid-19-tracker-32edd.web.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "build with Reactjs and firebase, hosted on firebase",
+        "image": "project6.png",
+        "url": "https://clone-efa9f.web.app/"
+      },
+      {
+        "title": "Slack Clone",
+        "category": "Slak Clone  built with ReactJS and firebase, hosted on firebase",
+        "image": "slack_clone.png",
+        "url": "https://slack-clone-6ff44.web.app/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
